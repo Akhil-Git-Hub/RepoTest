@@ -1,19 +1,12 @@
 # The Future in Tech
 
-<img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
+<img src="https://akhil-git-hub.github.io/RepoTest/images/photo.jpg" width="250">
 
-The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
+I’m someone who is highly motivated and innovative. Possessing exceptional communicational and interpersonal skills, I have delivered seminars and lectures in college, improving my overall communication and presentational skills. I possess qualities to work independently and also in a Team. My peers regard me as very approachable, empathetic, and someone who takes pride in good quality.
 
-You can [watch it on LinkedIn](https://go.raybo.org/tfit-episodes) every Thursday at 2pm ET, 11am PT. The goal of this series is to spark conversations, provide practical tips and resources to help developers work, learn, and tackle challenges related to working in the technology industry.
-
-We're talking about Generative AI tools like ChatGPT, Dall-E*2, Hugging Face by talking to some of the leaders delivering the tools, strategies and technologies that make working in technology exciting. We'll discuss how they broke into technology, business strategies, ethical concerns and technical skills.
-
-You have a chance to hear from people who are not just talking about, but building the next generation tools like Open AI and leaders who've worked for and with Fortune 500 companies like Microsoft, Google, LinkedIn,  IBM,  Open AI and more.
+Being a fast learner, I am adept in problem solving. Challenge myself with difficult puzzles always racks my brain; in doing so I learn way more. Experience is the key in life, be it at work and in personal life. It is always nice to meet new people and get to talk to them. Have been doing weekly Danish lessons with a native Dane.
 
 ---
 ## More Info
-- [The Future in Tech Page](https://go.raybo.org/tfit)
-- [Episode Guide](https://go.raybo.org/tfit-episodes)
-- [YouTube Playlist](https://go.raybo.org/tfit-youtube)
-- [Podcast Feed - Audio Only](https://go.raybo.org/tfit-feed-audio)
-- [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
+- [Akhil Joy]()
+- [Linked In](https://www.linkedin.com/in/akhil-joy-/)
