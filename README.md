@@ -1,4 +1,4 @@
-# The Future in Tech
+# Portfolio
 
 <img src="https://akhil-git-hub.github.io/RepoTest/images/photo.jpg" width="250">
 
