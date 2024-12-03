@@ -1,6 +1,6 @@
 # Portfolio
 
-<img src="https://akhil-git-hub.github.io/RepoTest/images/photo.jpeg" width="250">
+<img src="https://akhil-git-hub.github.io/RepoTest/images/profile_photo.jpg" width="250">
 
 I’m someone who is highly motivated and innovative. Possessing exceptional communicational and interpersonal skills, I have delivered seminars and lectures in college, improving my overall communication and presentational skills. I possess qualities to work independently and also in a Team. My peers regard me as very approachable, empathetic, and someone who takes pride in good quality.
 
